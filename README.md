@@ -1,4 +1,4 @@
-# La Life RP
+# La HYPE RP
 
 [Discord](https://discord.gg/aiekillu)
 Pour le support sur le scripting de FiveM en général.
@@ -49,8 +49,7 @@ Plus de détails bientôt
 ## Contributeurs officiels
 
 - **Actifs:**
-
-  Draziak, Shakir Darwish, Montecristo
+Aleixs AMZ
   
 - **Externes:**
 
